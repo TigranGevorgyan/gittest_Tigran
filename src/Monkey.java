@@ -6,5 +6,5 @@ public class Monkey extends Animal {
     public Monkey(String color, int age, String name) {
         super(color, age, name);
     }
-    
+
 }
